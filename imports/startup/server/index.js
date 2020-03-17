@@ -10,3 +10,6 @@ import './security.js';
 // This defines all the collections, publications and methods that the application provides
 // as an API to the client.
 import './register-api.js';
+
+// Setup @astraload/profilers package
+import '/imports/api/profilers/server/startup.js';
