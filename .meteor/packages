@@ -29,6 +29,7 @@ reywood:publish-composite
 mdg:validated-method
 mdg:validation-error
 peerlibrary:computed-field
+peerlibrary:reactive-publish
 
 # i18n
 universe:i18n
