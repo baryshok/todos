@@ -28,6 +28,7 @@ dburles:collection-helpers
 reywood:publish-composite
 mdg:validated-method
 mdg:validation-error
+peerlibrary:computed-field
 
 # i18n
 universe:i18n
