@@ -56,9 +56,6 @@ factory
 publication-collector
 xolvio:cleaner
 dispatch:mocha-phantomjs
-practicalmeteor:mocha
-practicalmeteor:chai
-practicalmeteor:sinon
 hwillson:stub-collections
 shell-server@0.4.0
 
