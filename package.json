@@ -8,7 +8,7 @@
     "lint": "eslint --ext .js,.jsx ."
   },
   "dependencies": {
-    "@astraload/profilers": "^1.0.6",
+    "@astraload/profilers": "^2.0.0",
     "@babel/runtime": "^7.7.2",
     "autoprefixer": "^9.7.1",
     "babel-helpers": "^6.24.1",
@@ -20,7 +20,8 @@
     "react-addons-pure-render-mixin": "^15.6.2",
     "react-dom": "^16.11.0",
     "react-router-dom": "^5.1.2",
-    "react-transition-group": "^4.3.0"
+    "react-transition-group": "^4.3.0",
+    "v8-profiler-next": "^1.2.2"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.3",
